@@ -71,4 +71,3 @@ onMounted(async () => {
     </div>
   </div>
 </template>
-../../toolbox/stores/providers

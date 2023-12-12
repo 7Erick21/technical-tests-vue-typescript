@@ -46,4 +46,3 @@ const handleAccess = async () => {
     </div>
   </div>
 </template>
-../../toolbox/stores/auth
