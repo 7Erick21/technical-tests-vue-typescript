@@ -34,6 +34,7 @@ const handleAccess = async () => {
           v-model="token"
           class="flex py-2 px-4 bg-white shadow-md rounded-2xl"
           placeholder="Ingresar Token"
+          autocomplete="off"
         />
       </div>
       <button
